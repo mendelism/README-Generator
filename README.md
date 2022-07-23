@@ -26,13 +26,8 @@
   
   Invoke with node index.js and step through the prompts.
 
-  
-
 
 https://user-images.githubusercontent.com/99297324/180626301-7c01820a-2bc5-41b4-9e48-3bbd645011e7.mp4
-
-
-[Link to video](https://user-images.githubusercontent.com/99297324/180626301-7c01820a-2bc5-41b4-9e48-3bbd645011e7.mp4)
 
   
   ## License
