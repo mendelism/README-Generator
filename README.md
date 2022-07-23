@@ -11,6 +11,7 @@
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
+  - [Testing](#testing)
   - [Questions](#questions)
   
   
@@ -39,6 +40,12 @@ https://user-images.githubusercontent.com/99297324/180626301-7c01820a-2bc5-41b4-
   
   Email me
   
+  ## Testing
+  
+  To run tests, run the following command:
+  ```
+  No tests
+  ```
   
   ## Questions
   
