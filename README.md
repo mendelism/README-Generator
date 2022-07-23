@@ -11,7 +11,6 @@
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
-  - [Testing](#testing)
   - [Questions](#questions)
   
   
